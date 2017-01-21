@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ext-mysqli": "*"
+    },
+    "PHP_EXTENSIONS": ["bz2", "zlib", "curl", "mcrypt", "fileinfo"]
+}
